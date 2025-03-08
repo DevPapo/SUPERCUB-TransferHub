@@ -1,0 +1,14 @@
+name: SUPERCUB-TransferHub
+main: SrJayYTs\PluginManager\Main
+version: 1.0.0
+api: [5.0.0]
+author: SrJayYTs
+commands:
+  hub-network:
+    description: "SUPERCUB HUB"
+    usage: "/hub-network"
+    permission: supercub.transferhub.use
+permissions:
+  supercub.transferhub.use:
+    description: "SUPERCUB HUB"
+    default: true
