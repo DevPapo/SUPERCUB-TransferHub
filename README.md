@@ -9,5 +9,5 @@ Plugin para SUPERCUB, que tiene la funcion de transferir a cualquier jugador que
 ### contenido:
 ![image](https://github.com/user-attachments/assets/87377b75-2536-4ac0-9fbe-7cf22f9c63af)
 
-## Suppor Server:
+## ![image](https://github.com/user-attachments/assets/543c63aa-d9c2-4cbb-97ad-e6e8c1437171) Suppor Server:
 https://discord.gg/supercub
